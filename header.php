@@ -8,3 +8,5 @@
 	<script type="text/javascript" src="js/mobile.js"></script>
 </head>
 <body>
+	<center>
+<img src="images/ecommerce_logo.jpg" alt="">
